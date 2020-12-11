@@ -1,2 +1,8 @@
-# lab-5-refugee-stats-using-dictionaries-jstrzempko2
-lab-5-refugee-stats-using-dictionaries-jstrzempko created by GitHub Classroom 
+# Lab 5 – Refugee Stats using Dictionaries
+This repo contains the Jupyter notebook "Jess_Strzempko_Refugee-Stats-Using-Dictionaries_Lab5.ipynb." It was completed as Lab 5 Refugee Stats Using Dictionaries for the Clark University course IDCE 302 Python Programming taught by Professor Shadrock Roberts. The script creates a small dictionary of refugee camp popuations and iterates through it to create basic outputs. First, the script creates a dictionary with 5 key-value pairs consisting of a country name and an integer representing the population of one refugee camp in this country for the latest year of data (2014). [Refugee camp populations](https://en.wikipedia.org/wiki/Refugee_camp) were sourced from a Wikipedia data table. Two functions are created - one to print the keys in the key-value pairs and the other to print the values, both using for loops. Both functions are called on the refugee dictionary. A last function is created and called to print out a series of statements with how many refugees are in each country with the format: "CountryX has 1234567 refugees."
+
+## Problems Encountered
+No problems were encountered in the creation of this script.
+
+# The Code
+Users can download and run the python script "Jess_Strzempko_Refugee-Stats-Using-Dictionaries_Lab5.ipynb" in Colab notebooks. The script creates a dictionary with information about refugee camp populations. It then creates and calls several functions to extract and output information from the dictionary. If problems are encountered, users can contact Jess Strzempko at JeStrzempko@clarku.edu for more help and further information.
